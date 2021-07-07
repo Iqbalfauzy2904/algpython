@@ -2,7 +2,7 @@
 """
 Created on Wed Jul  7 20:19:40 2021
 
-@author: Iqbal Fauzy
+@author: Iqbal Fauzy 2G
 """
 NIM    : 20083000163
 
